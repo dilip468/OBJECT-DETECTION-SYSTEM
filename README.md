@@ -33,3 +33,10 @@ bus
 building
 
 It's designed to identify all relevant objects, not just the most prominent one. This is in contrast to typical single-label classification models that would only output "street scene" or "car."
+
+
+
+
+
+
+DATA SET PATH= /kaggle/input/coco-2017-dataset
